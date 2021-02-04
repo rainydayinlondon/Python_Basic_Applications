@@ -21,9 +21,6 @@ def high_and_low(numbers):
   
     return max,min
 
-
-
-
 numbers=[1364,6,2,9,3]
 
 print("Largest element and min number:", high_and_low(numbers)) 
