@@ -1,0 +1,8 @@
+https://www.guru99.com/python-zip-file.html  /Uygulamalı örnekler
+
+
+https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+
+
+https://www.geeksforgeeks.org/file-handling-python/   
+(GeeksforGeeks'de güzel uygulamalar da var ara ara bakmalısın..)
